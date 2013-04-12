@@ -8,7 +8,6 @@
 	This is the first loader module for IDA
 	I have written so far. It might therefore
 	give inaccurate results.
-	Feedback, bugreports and donations are welcome =)
 
 	dennis[at]backtrace[dot]de / www[dot]backtrace[dot]de
 
